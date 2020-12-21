@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43217652336",
+    "firebase_url": "https://findma-222907.firebaseio.com",
+    "project_id": "findma-222907",
+    "storage_bucket": "findma-222907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43217652336:android:d53b9b105b707d0f",
+        "android_client_info": {
+          "package_name": "com.example.magshimim.findma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43217652336-n64bdaal7dgk40pb1bs7v0r482011mkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magshimim.findma",
+            "certificate_hash": "568027bf790f030f28e36167b8a50935f943d8a3"
+          }
+        },
+        {
+          "client_id": "43217652336-0giffjo5p094u872396hbkd0li8faknr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW5FtuWIkeUt2s5IDQSmWKrGC_L4JxpCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43217652336-0giffjo5p094u872396hbkd0li8faknr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
